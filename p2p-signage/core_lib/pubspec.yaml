@@ -1,0 +1,16 @@
+name: core_lib
+description: "A core library for P2P communication."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  crypto: ^3.0.3
+  http: ^1.2.2
+  pointycastle: ^3.9.1
+  asn1lib: ^1.4.1
+
+dev_dependencies:
+  test: ^1.25.8
