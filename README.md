@@ -1,4 +1,4 @@
-# AccioTv P2P Signage System
+# Beam Audio Technologies P2P Signage System
 
 This repository contains the core components for a P2P (Peer-to-Peer) signage system, designed to distribute content efficiently across a network of nodes. The system is built with a Dart-based P2P application and a Python script for protocol analysis and visualization.
 
@@ -73,4 +73,4 @@ Contributions are welcome! Please refer to the individual `README.md` files for 
 
 ## License
 
-[Specify your license here]
+GPL V3
